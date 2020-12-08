@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Trainer
+Comment=English words trainer
+Exec=sh -e -c "exec \\"\\$(dirname \\"\\$0\\")/app/main.py\\"" %k
+Terminal=false
